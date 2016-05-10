@@ -11,8 +11,8 @@
 
     <style name="OverflowButtonStyle">
         <item name="android:src">@drawable/actionbar_add_icon</item>
-        <item name="android:paddingTop">12dp</item>
-        <item name="android:paddingBottom">12dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
         <item name="android:paddingRight">-15dp</item>
         <item name="android:paddingLeft">-15dp</item>
     </style>
